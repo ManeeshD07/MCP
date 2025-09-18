@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments and local env files
+.venv/
+.env
+.env.*
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+
+# Type checkers / linters / caches
+.mypy_cache/
+.ruff_cache/
+.pytype/
+.pyre/
+.cache/
+
+# Editors / OS-specific
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Note: keep `uv.lock` and `.python-version` tracked on purpose

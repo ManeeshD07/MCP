@@ -68,5 +68,3 @@ uv run python client.py
 
 ## Contributing
 See `AGENTS.md` for coding style, testing expectations, and PR guidelines.
-# MCP
-# MCP
